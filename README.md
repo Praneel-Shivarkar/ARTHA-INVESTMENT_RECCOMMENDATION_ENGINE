@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Artha - AI-Powered Investment Planning System
 
 Artha is a production-ready hackathon project built on Next.js 15 App Router. The architecture keeps all financial logic deterministic in TypeScript and limits AI to two jobs only: extracting user goal details and explaining already-computed results.
@@ -148,3 +149,7 @@ npm run dev
 3. Change the SIP using the slider to rerun the deterministic portfolio and simulation.
 4. Click through the React Flow nodes for the full decision chain.
 5. Generate the IPS PDF for the final artifact.
+=======
+# ARTHA-INVESTMENT_RECCOMMENDATION_ENGINE
+AI-powered investment planning system with deterministic portfolio logic, real-time simulations, and beginner-friendly insights.
+>>>>>>> b487d87d7d47b96b1f4230a78f5d43e9663bc553
